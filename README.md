@@ -6,7 +6,7 @@
 </div>
 
 ---
-  - My macbook Setting 구성
+  - My macbook 구성
     - 환경셋팅
       - homebrew
       - JDK SE 18
