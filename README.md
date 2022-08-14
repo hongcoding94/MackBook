@@ -1,5 +1,4 @@
 ## MackBook M1 사용일지
----
 
 <div align="center">
   <b>사용일지를 작성하는 이유</b><br/>
