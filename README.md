@@ -1,5 +1,12 @@
 ## MackBook M1 사용일지
+---
 
+<div align="center">
+  <b>사용일지를 작성하는 이유</b><br/>
+  향후 환경 세팅에 대해서 혼돈하지 않도록 나만의 Mac 개발자환경에 대한 내용 정리
+</div>
+
+---
   - My macbook 셋팅. 
     - 환경셋팅
       - homebrew
