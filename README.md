@@ -19,8 +19,9 @@
     - 기타
       - Notion 
       - Chrome
-        - GoFullPage - Full Page Screen Capture : Chrome에서 전체 화면 캡쳐가 필요할때 
-        - Octotree - GitHub code tree : Chrome에서의 트리구조 메뉴얼 생성
+        - Chrome 확장프로그램
+          1. GoFullPage - Full Page Screen Capture : Chrome에서 전체 화면 캡쳐가 필요할때 
+          2. Octotree - GitHub code tree : Chrome에서의 트리구조 메뉴얼 생성
 
 ---
 
