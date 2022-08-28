@@ -17,7 +17,7 @@
       - Postman
       - Visual Studio Code
       - DBeaver
-      - 
+      - MySQL
       
     - 형상관리
       - GitHub Desktop
